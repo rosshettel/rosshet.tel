@@ -1,0 +1,23 @@
+div.entry {
+    text-align: center;
+}
+
+.entry > div {
+    margin-bottom: 35px;
+}
+
+.hentry .entry p {
+    margin-bottom: 0px;
+}
+
+div.jobhistory h4 {
+    margin-bottom: 0px;
+}
+
+div.sideprojects > div {
+    margin-bottom: 15px;
+}
+
+#sidebar ul li.page_item {
+    margin-top: 6px;
+}
